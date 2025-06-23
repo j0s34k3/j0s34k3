@@ -16,7 +16,7 @@ Science-society connections / Conexión ciencia-sociedad
   *Cosmología computacional*  
 - Urban network science  
   *Ciencia de redes urbanas*
-- Solid State Computational Analysis 
+- Solid State Computational Analysis
   *Análisis computacional en estado sólido*
 
 ---
