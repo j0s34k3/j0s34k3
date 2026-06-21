@@ -1,7 +1,7 @@
 # José Ángel Aké
 **M.Sc. Candidate in Physical Sciences**  
 *Posgrado en Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM)*  
-Conectividad: [LinkedIn](#) | randommail@fisica.unam.mx
+Conectividad: [LinkedIn](#) | akejja@estudiantes.fisica.unam.mx
 
 ---
 
